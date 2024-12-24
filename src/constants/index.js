@@ -79,9 +79,6 @@ export const sizes = [
 ]
 
 export const footerLinks = [
-  'Privacy Policy',
-  'Terms of Use',
-  'Sales Policy',
-  'Legal',
-  'Site Map',
+  { name: 'LinkedIn', url: 'https://www.linkedin.com/in/ramzibouzaiene/' },
+  { name: 'GitHub', url: 'https://github.com/ramzibouzaiene' },
 ]
