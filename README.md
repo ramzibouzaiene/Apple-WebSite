@@ -2,7 +2,7 @@
 This project is a replica of Apple's iPhone 15 Pro website, built using React.js and TailwindCSS. It showcases the creative use of GSAP (Greensock Animations) and Three.js to display iPhone 15 Pro models in different colors and designs.
 
 # Tech Stack 🔥
-📌 React.js: JavaScript library for building user interfaces.
+📌 React.js: JavaScript library for building user interfaces. <br/>
 📌 Three.js: 3D library for rendering graphics in the browser.
 📌 React Three Fiber: React renderer for Three.js.
 📌 React Three Drei: Utility library for React Three Fiber.
