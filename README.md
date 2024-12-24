@@ -27,14 +27,20 @@ Ensure the following are installed on your system:
 📌 npm (Node Package Manager) <br/>
 
 ## Clone the Repository
+```
 git clone https://github.com/ramzibouzaiene/Apple-WebSite <br/>
 cd Apple-WebSite
+````
 
 ## Install Dependencies
-npm install  
+````
+npm install
+````  
 
 ## Run the Project
-npm run dev  
+````
+npm run dev
+````
 
 Open http://localhost:5173 in your browser to view the project.
 
