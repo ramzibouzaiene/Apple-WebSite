@@ -28,7 +28,7 @@ Ensure the following are installed on your system:
 
 ## Clone the Repository
 ```
-git clone https://github.com/ramzibouzaiene/Apple-WebSite <br/>
+git clone https://github.com/ramzibouzaiene/Apple-WebSite
 cd Apple-WebSite
 ````
 
